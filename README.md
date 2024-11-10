@@ -1,11 +1,11 @@
 A basic clone of Spotify’s user interface, built using HTML and CSS. This project aims to replicate the design and layout of Spotify’s web interface, focusing on responsive design and CSS styling.
 
 
-Features 
+# Features 
 
 
-. Home Page Layout
+* Home Page Layout
 
-. Responsive Design
+* Responsive Design
 
-. CSS Styling
+* CSS Styling
