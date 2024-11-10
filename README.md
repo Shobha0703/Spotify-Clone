@@ -2,6 +2,10 @@ A basic clone of Spotify’s user interface, built using only HTML and CSS. This
 
 
 Features 
+
+
 . Home Page Layout
+
 . Responsive Design
+
 . CSS Styling
